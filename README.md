@@ -1,4 +1,4 @@
-# Proje Adı
+# ITEM AVM
 
 Canlı Demo: [Projeyi Görüntüle](https://eik-item-avm.vercel.app/)
 
